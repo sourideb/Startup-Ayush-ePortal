@@ -1,0 +1,30 @@
+.category-section-3{
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    margin: 20px 90px;
+    padding: 2px;
+}
+
+main {
+    padding: 2px;
+}
+
+.iu-schemes {
+    text-align: center;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.column {
+    flex-basis: 10%;
+    margin: 2px;
+}
+
+.box {
+    border: 1px solid #ccc;
+    padding: 2px;
+}
