@@ -18,4 +18,4 @@ function changeImage() {
 }
 
 showImage(currentIndex); // Show the first image initially
-setInterval(changeImage, 2000); // Change the image every 5 seconds
+setInterval(changeImage, 3000); // Change the image every 3 seconds
